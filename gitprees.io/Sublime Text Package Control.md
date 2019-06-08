@@ -8,7 +8,10 @@ http://www.miaoqiyuan.cn/p/package-control-error
 ],
 
 
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMzYwMTQ0OTAsMjQ0NTU2MDMyLDEyMD
-MxMzMzOTYsNjI5Njg5ODIzLDczMDk5ODExNl19
+eyJoaXN0b3J5IjpbLTExOTAyOTM0MzgsLTEyMzYwMTQ0OTAsMj
+Q0NTU2MDMyLDEyMDMxMzMzOTYsNjI5Njg5ODIzLDczMDk5ODEx
+Nl19
 -->
