@@ -9,3 +9,6 @@ http://www.miaoqiyuan.cn/p/package-control-error
 
 支持Javascript Console控制台调试
 {"cmd": ["node", "$file"],"selector": "source.js"}
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbMTU1MDAzODU4Ml19
+-->
