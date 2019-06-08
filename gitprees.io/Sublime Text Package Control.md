@@ -8,10 +8,11 @@ http://www.miaoqiyuan.cn/p/package-control-error
 ],
 
 
+{"cmd": ["node", "$file"],"selector": "source.js"}
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExOTAyOTM0MzgsLTEyMzYwMTQ0OTAsMj
+eyJoaXN0b3J5IjpbLTExMjQzNTUxNjEsLTEyMzYwMTQ0OTAsMj
 Q0NTU2MDMyLDEyMDMxMzMzOTYsNjI5Njg5ODIzLDczMDk5ODEx
 Nl19
 -->
