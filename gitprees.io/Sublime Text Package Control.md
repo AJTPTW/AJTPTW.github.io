@@ -16,6 +16,8 @@
 Installation - Package Control 中文镜像
 [链接][1]
 
+https://raw.githubusercontent.com/HBLong/channel_v3_daily/master/channel_v3.json
+
 [1]:http://packagecontrol.cn/installation
 [2]:https://halfmoonvic.github.io/2019/01/07/%E7%8E%A9%E8%BD%ACsublime%E4%B9%8B%EF%BC%9Asublime%E4%B8%BB%E9%A2%98%E7%AF%87
 [3]:https://github.com/HBLong/channel_v3_daily#如何安装-package-control离线安装
