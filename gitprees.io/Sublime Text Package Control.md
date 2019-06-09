@@ -11,8 +11,9 @@ http://www.miaoqiyuan.cn/p/package-control-error
  {"cmd": ["node", "$file"],"selector": "source.js"}
 
 玩转sublime之：sublime 主题修改篇 | YUE [link](https://halfmoonvic.github.io/2019/01/07/%E7%8E%A9%E8%BD%ACsublime%E4%B9%8B%EF%BC%9Asublime%E4%B8%BB%E9%A2%98%E7%AF%87/)
-
+Installation - Package Control 中文镜像
+http://packagecontrol.cn/installation
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgxNjQ2MTQyNiwtNTQzNzQ3MjMyLC05Mz
-Y2NzY2NjAsMjE0MjA1NzU0MV19
+eyJoaXN0b3J5IjpbNjI4Nzc5MzA2LC04MTY0NjE0MjYsLTU0Mz
+c0NzIzMiwtOTM2Njc2NjYwLDIxNDIwNTc1NDFdfQ==
 -->
