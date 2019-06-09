@@ -42,6 +42,7 @@ Installation - Package Control 中文镜像
 		"Visual Studio Dark"
 	]
 }
+
 ]
 
 
