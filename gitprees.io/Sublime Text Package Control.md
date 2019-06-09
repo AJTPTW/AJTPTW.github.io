@@ -1,5 +1,5 @@
 
-# ==packagecontrol.io== Package Control 又挂了，附解决方案
+## __packagecontrol.io__ Package Control 又挂了，附解决方案
 https://github.com/HBLong/channel_v3_daily#如何安装-package-control离线安装
 http://www.miaoqiyuan.cn/p/package-control-error
 
@@ -14,6 +14,6 @@ http://www.miaoqiyuan.cn/p/package-control-error
 Installation - Package Control 中文镜像
 http://packagecontrol.cn/installation
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjI4Nzc5MzA2LC04MTY0NjE0MjYsLTU0Mz
-c0NzIzMiwtOTM2Njc2NjYwLDIxNDIwNTc1NDFdfQ==
+eyJoaXN0b3J5IjpbLTE1MjMwMTcxNDUsLTgxNjQ2MTQyNiwtNT
+QzNzQ3MjMyLC05MzY2NzY2NjAsMjE0MjA1NzU0MV19
 -->
