@@ -1,5 +1,5 @@
 
-## __packagecontrol.io__ Package Control 
+## packagecontrol.io Package Control 
 
 [Package Contro如何离线安装][3]
 
