@@ -14,6 +14,3 @@ W3C 宣布与 WHATWG 达成协议，HTML 和 DOM 标准都以 WHATWG 为准，�
 玩转sublime之：sublime 主题修改篇 | YUE
 https://halfmoonvic.github.io/2019/01/07/%E7%8E%A9%E8%BD%ACsublime%E4%B9%8B%EF%BC%9Asublime%E4%B8%BB%E9%A2%98%E7%AF%87/
 
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk1ODcyMTI3MiwtMTkxMzkxOTQ5N119
--->
