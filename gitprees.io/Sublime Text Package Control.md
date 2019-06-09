@@ -13,7 +13,3 @@ http://www.miaoqiyuan.cn/p/package-control-error
 玩转sublime之：sublime 主题修改篇 | YUE [link](https://halfmoonvic.github.io/2019/01/07/%E7%8E%A9%E8%BD%ACsublime%E4%B9%8B%EF%BC%9Asublime%E4%B8%BB%E9%A2%98%E7%AF%87/)
 Installation - Package Control 中文镜像
 http://packagecontrol.cn/installation
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MjMwMTcxNDUsLTgxNjQ2MTQyNiwtNT
-QzNzQ3MjMyLC05MzY2NzY2NjAsMjE0MjA1NzU0MV19
--->
