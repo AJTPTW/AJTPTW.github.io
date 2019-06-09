@@ -1,5 +1,5 @@
 
-# [packagecontrol.io](https://packagecontrol.io) Package Control 又挂了，附解决方案
+# ==packagecontrol.io== Package Control 又挂了，附解决方案
 https://github.com/HBLong/channel_v3_daily#如何安装-package-control离线安装
 http://www.miaoqiyuan.cn/p/package-control-error
 
@@ -12,6 +12,6 @@ http://www.miaoqiyuan.cn/p/package-control-error
 
 玩转sublime之：sublime 主题修改篇 | YUE [link](https://halfmoonvic.github.io/2019/01/07/%E7%8E%A9%E8%BD%ACsublime%E4%B9%8B%EF%BC%9Asublime%E4%B8%BB%E9%A2%98%E7%AF%87/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjAyOTA4NDIxLC05MzY2NzY2NjAsMjE0Mj
-A1NzU0MV19
+eyJoaXN0b3J5IjpbLTU0Mzc0NzIzMiwtOTM2Njc2NjYwLDIxND
+IwNTc1NDFdfQ==
 -->
