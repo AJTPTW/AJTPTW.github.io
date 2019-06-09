@@ -5,11 +5,11 @@
 
 [Package Control 又挂了，附解决方案](http://www.miaoqiyuan.cn/p/package-control-error)
 
- =="channels": ["http://www.miaoqiyuan.cn/products/proxy/channel_v3.json"], ==
+"channels": ["http://www.miaoqiyuan.cn/products/proxy/channel_v3.json"], 
 
 支持Javascript Console控制台调试
 
-__ {"cmd": ["node", "$file"],"selector": "source.js"} __
+{"cmd": ["node", "$file"],"selector": "source.js"} 
 
 玩转sublime之：sublime 主题修改篇 | YUE [链接][2]
 
