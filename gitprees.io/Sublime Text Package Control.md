@@ -15,6 +15,7 @@
 
 Installation - Package Control 中文镜像
 [链接][1]
+]
 
 {
 	"bootstrapped": true,
@@ -41,6 +42,7 @@ Installation - Package Control 中文镜像
 		"Visual Studio Dark"
 	]
 }
+]
 
 
 [1]:http://packagecontrol.cn/installation
