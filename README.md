@@ -1,6 +1,6 @@
 ---
 extensions:
-  preset: gfm
+  preset: zero
 
 ---
 
