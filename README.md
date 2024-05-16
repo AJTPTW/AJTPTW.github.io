@@ -4,6 +4,10 @@
 >
 > [https://www.guancha.cn/politics/2024_05_16_734999.shtml](https://www.guancha.cn/politics/2024_05_16_734999.shtml "中华人民共和国和俄罗斯联邦在两国建交75周年之际关于深化新时代全面战略协作伙伴关系的联合声明")
 
+> 中华人民共和国和俄罗斯联邦在两国建交75周年之际关于深化新时代全面战略协作伙伴关系的联合声明
+>
+> [https://www.guancha.cn/politics/2024_05_16_734999.shtml](https://www.guancha.cn/politics/2024_05_16_734999.shtml "中华人民共和国和俄罗斯联邦在两国建交75周年之际关于深化新时代全面战略协作伙伴关系的联合声明")
+
 ## Day 1: Arrival in Alice Springs
 
 * Arrive in Alice Springs, a central hub for exploring the Australian Outback.
@@ -30,7 +34,8 @@
 * Reflect on your adventures in Alice Springs.
 
 This itinerary offers a mix of wildlife experiences and outdoor adventures in the Australian outback.
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc5OTU4NjA4OSwyMTMwNTQzMDM2LC0yMD
-g4NzQ2NjEyXX0=
+eyJoaXN0b3J5IjpbODc3MDA4MTk2LDE3OTk1ODYwODksMjEzMD
+U0MzAzNiwtMjA4ODc0NjYxMl19
 -->
