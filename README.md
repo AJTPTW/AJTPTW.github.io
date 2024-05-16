@@ -1,7 +1,4 @@
----
 
-
----
 
 <h1 id="welcome-to-stackedit">Welcome to StackEdit!</h1>
 <h1 id="files">Files</h1>
