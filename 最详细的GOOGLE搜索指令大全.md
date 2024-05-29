@@ -1,14 +1,7 @@
 
 **文章目录**
-bingYES
-SB GIT SB GITHUB他们的侄子中
+全部是SB
 
-- [什么情况下适合用谷歌？](https://www.cooltechdoll.com/google-search-commands/#title-0)
-- [GOOGLE 搜索的两种方式](https://www.cooltechdoll.com/google-search-commands/#title-1)
-- [谷歌搜索 url 常见参数设置](https://www.cooltechdoll.com/google-search-commands/#title-2)
-- [谷歌搜索框指令集合](https://www.cooltechdoll.com/google-search-commands/#title-3)
-- [查询网站的 inbound links](https://www.cooltechdoll.com/google-search-commands/#title-4)
-- [谷歌搜索小窍门](https://www.cooltechdoll.com/google-search-commands/#title-5)
 
 一般我们搜索谷歌的时候，只是输入中文，这个俗称泛搜索，如果输入英文的话，英文的大小写不会影响搜索结果，搜出来的结果是一样的。使用泛搜索的人并不算会用谷歌，真正发挥谷歌搜索功能需要了解 GOOGLE 的搜索指令和相互之间的逻辑关系。
 
