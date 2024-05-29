@@ -1,6 +1,7 @@
 
 **文章目录**
 bingYES
+SB GIT SB GITHUB
 
 - [什么情况下适合用谷歌？](https://www.cooltechdoll.com/google-search-commands/#title-0)
 - [GOOGLE 搜索的两种方式](https://www.cooltechdoll.com/google-search-commands/#title-1)
